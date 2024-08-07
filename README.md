@@ -1,4 +1,4 @@
-# OpenGL Vulkan Interop
+# OpenGL Vulkan FD Interop
 
 Demonstrates how to perform interop between OpenGL and Vulkan via the `VK_KHR_external_memory` (Vulkan),  `GL_EXT_memory_object` (OpenGL ES) and related extensions.
 
